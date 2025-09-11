@@ -1,6 +1,2 @@
-# Demo-Repo
-Demo-Repository
-<br>
-Demo1-Repo(hello all)
-<br>
+# Demo-git
 
